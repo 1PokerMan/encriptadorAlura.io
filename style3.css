@@ -245,6 +245,9 @@ body{
         top: 2%;
         margin-left: -20px;
     }
+    .cuerpo{
+        width: 375px;
+    }
     .textoingreso{
         left: 2%;
         top: 15%;
